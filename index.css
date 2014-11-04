@@ -1,0 +1,22 @@
+body{
+  background-color:white;
+}
+div{
+  float:left;
+}
+#picture{
+  overflow:hidden; 
+}
+ul{
+  margin-top:100px;
+  width:10500px;
+}
+li{
+  list-style:none;
+  float:left;
+  width:700px;
+}
+#picture{
+  overflow:hidden; 
+  position:relative; 
+}
